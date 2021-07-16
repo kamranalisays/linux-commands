@@ -11,6 +11,13 @@ It gives absolute path, which means the path that starts from the root. The root
 
 2) ls -a
 
+list all files
+
+
+3) cd
+
+
+
 
 
 
