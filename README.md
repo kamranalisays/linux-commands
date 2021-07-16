@@ -15,7 +15,8 @@ It gives absolute path, which means the path that starts from the root. The root
 list all files
 
 
-###  3) cd
+###  3) cd (change directory )
+
 
 To navigate into the root directory, use "cd /"
 
