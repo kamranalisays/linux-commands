@@ -3,7 +3,7 @@
 
 Under Development
 
-### 1) pwd (Print Working Directory)
+#### 1) pwd (Print Working Directory)
 
 /home/username
 
