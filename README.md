@@ -2,4 +2,4 @@
 
 Under Development
 
-1) pwd
+1) pwd (Print Working Directory)
